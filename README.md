@@ -1,6 +1,7 @@
 # Jade Multi-Agent Reindeer Rescue 
 
 This project was developed during our Erasmus studies in Granada, Spain, as part of the course **Desarrollo Basado en Agentes** at the University of Granada.
+
 [🎥 Watch Demo Video](https://drive.google.com/file/d/1UPGwCAoNi2u-13-iuFopQV83D7dd4sAX/view?usp=sharing)
 
 ## Project Description
@@ -64,6 +65,6 @@ Search and movement strategies rely on:
 - **Diana Dmitriyeva**
 - **Gabriel Tavares**
 
-## 📝 License
+## License
 
 This project is for educational purposes only.
